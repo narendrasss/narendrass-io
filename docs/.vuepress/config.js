@@ -12,7 +12,7 @@ module.exports = {
                 link: '/blog/'
             },
             {
-                text: 'Notes',
+                text: 'UBC',
                 items: [
                     {
                         text: 'CPSC',
@@ -20,7 +20,13 @@ module.exports = {
                             { text: '317', link: '/cpsc/317/m01' },
                             { text: '320', link: '/cpsc/320/m01' },
                         ]
-                    }
+                    },
+                ]
+            },
+            {
+                text: 'Javascript',
+                items: [
+                    { text: 'The Hard Parts', link: '/javascript/m01' }
                 ]
             }
         ],
@@ -43,6 +49,10 @@ module.exports = {
                 'm04',
                 'm05',
                 { title: 'Assignments', collapsable: false }
+            ],
+            '/javascript/': [
+                { title: 'Javascript', collapsable: false },
+                'm01'
             ]
         }
     }
