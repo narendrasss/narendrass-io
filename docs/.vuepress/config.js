@@ -56,6 +56,10 @@ module.exports = {
                 'm05',
                 { title: 'Assignments', collapsable: false }
             ],
+            '/math/221/': [
+                { title: 'MATH 221', collapsable: false },
+                'm01',
+            ],
             '/javascript/': [
                 { title: 'Javascript', collapsable: false },
                 'm01'
