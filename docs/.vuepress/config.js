@@ -21,6 +21,12 @@ module.exports = {
                             { text: '320', link: '/cpsc/320/m01' },
                         ]
                     },
+                    {
+                        text: 'MATH',
+                        items: [
+                            { text: '221', link: '/math/221/m01' }
+                        ]
+                    }
                 ]
             },
             {
