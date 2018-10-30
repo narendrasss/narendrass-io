@@ -62,7 +62,8 @@ module.exports = {
             ],
             '/javascript/': [
                 { title: 'Javascript', collapsable: false },
-                'm01'
+                'm01',
+                'm02'
             ]
         }
     }
