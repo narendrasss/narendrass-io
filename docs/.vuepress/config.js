@@ -73,6 +73,15 @@ module.exports = {
                 'm02',
                 'm03',
                 'm04'
+            ],
+            '/javascript/deep-foundations/': [
+                { title: 'Deep Javascript Foundations', collapsable: false },
+                'm01',
+                'm02',
+                'm03',
+                'm04',
+                'm05',
+                'm06'
             ]
         }
     }
