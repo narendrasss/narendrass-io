@@ -63,10 +63,6 @@ module.exports = {
                 'm05',
                 { title: 'Assignments', collapsable: false }
             ],
-            '/math/221/': [
-                { title: 'MATH 221', collapsable: false },
-                'm01',
-            ],
             '/javascript/the-hard-parts/': [
                 { title: 'JS - The Hard Parts', collapsable: false },
                 'm01',
