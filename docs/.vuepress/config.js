@@ -20,12 +20,6 @@ module.exports = {
                             { text: '317', link: '/cpsc/317/m01' },
                             { text: '320', link: '/cpsc/320/m01' },
                         ]
-                    },
-                    {
-                        text: 'MATH',
-                        items: [
-                            { text: '221', link: '/math/221/m01' }
-                        ]
                     }
                 ]
             },
