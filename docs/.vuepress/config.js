@@ -32,7 +32,14 @@ module.exports = {
             {
                 text: 'Javascript',
                 items: [
-                    { text: 'The Hard Parts', link: '/javascript/m01' }
+                    { 
+                        text: 'The Hard Parts', 
+                        link: '/javascript/the-hard-parts/m01' 
+                    },
+                    {
+                        text: 'Deep Javascript Foundations',
+                        link: '/javascript/deep-foundations/m01'
+                    }
                 ]
             }
         ],
@@ -60,10 +67,12 @@ module.exports = {
                 { title: 'MATH 221', collapsable: false },
                 'm01',
             ],
-            '/javascript/': [
-                { title: 'Javascript', collapsable: false },
+            '/javascript/the-hard-parts/': [
+                { title: 'JS - The Hard Parts', collapsable: false },
                 'm01',
-                'm02'
+                'm02',
+                'm03',
+                'm04'
             ]
         }
     }
