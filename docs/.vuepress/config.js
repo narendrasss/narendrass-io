@@ -33,6 +33,10 @@ module.exports = {
                     {
                         text: 'Deep Javascript Foundations',
                         link: '/javascript/deep-foundations/m01'
+                    },
+                    {
+                        text: 'React',
+                        link: '/javascript/react/m01'
                     }
                 ]
             }
