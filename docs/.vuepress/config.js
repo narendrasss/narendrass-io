@@ -9,7 +9,16 @@ module.exports = {
             },
             {
                 text: 'Blog',
-                link: '/blog/'
+                items: [
+                    {
+                        text: 'Finance App',
+                        link: '/blog/finance-app/'
+                    }, 
+                    {
+                        text: 'Hacker Rank',
+                        link: '/blog/hacker-rank/'
+                    }
+                ]
             },
             {
                 text: 'UBC',
