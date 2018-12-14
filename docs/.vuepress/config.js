@@ -51,6 +51,18 @@ module.exports = {
             }
         ],
         sidebar: {
+            '/blog/hacker-rank/': [
+                {
+                    title: 'Warm-up Challenges',
+                    collapsable: false,
+                    children: [
+                        'm00/p01',
+                        'm00/p02',
+                        'm00/p03',
+                        'm00/p04'
+                    ]
+                }
+            ],
             '/cpsc/317/': [
                 { title: 'CPSC 317', collapsable: false },
                 'm01',
